@@ -51,7 +51,7 @@
         "space-infix-ops": ["error"],
         "keyword-spacing": ["error"],
         "space-in-parens": ["error", "never"],
-        "no-mixed-spaces-and-tabs": ["error"]
+        "no-mixed-spaces-and-tabs": ["error"],
         "eqeqeq": ["error", "smart"]
     }
 }
